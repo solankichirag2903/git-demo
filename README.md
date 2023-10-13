@@ -1,3 +1,3 @@
 # git-demo
-this is my first git hub reos
-Author - Chirag Solanki
+this is my first git hub repository
+Author - chiragms
